@@ -6,8 +6,8 @@ My Brewfile for managing installed programs
 To get started, just run the setup script:
 
 ```bash
-bash <(curl -s https://aquacode.github.io/Brewfile/guided-install.sh)
+bash <(curl -s https://raw.githubusercontent.com/aquacode/Brewfile/main/guided-install.sh)
 ```
 
 
-Alternatively, you can just download the [`Brewfile`](https://raw.githubusercontent.com/aquacode/Brewfile/main/guided-install.sh) to `~/.Brewfile`, make any desired changes, then run `brew bundle --global` to install the listed packages.
+Alternatively, you can just download the [`Brewfile`](https://raw.githubusercontent.com/aquacode/Brewfile/main/Brewfiles) to `~/.Brewfile`, make any desired changes, then run `brew bundle --global` to install the listed packages.

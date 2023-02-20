@@ -10,4 +10,4 @@ bash <(curl -s https://aquacode.github.io/Brewfile/guided-install.sh)
 ```
 
 
-Alternatively, you can just download the [`Brewfile`](https://github.com/aquacode/Brewfile/blob/master/Brewfile) to `~/.Brewfile`, make any desired changes, then run `brew bundle --global` to install the listed packages.
+Alternatively, you can just download the [`Brewfile`](https://raw.githubusercontent.com/aquacode/Brewfile/main/guided-install.sh) to `~/.Brewfile`, make any desired changes, then run `brew bundle --global` to install the listed packages.

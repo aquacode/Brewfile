@@ -171,7 +171,7 @@ brew 'youtube-dl'   # YouTube video downloader
 
 # Personal Applications
 cask '1password'      # Password manager (proprietary)
-cask 'tresorit'       # Encrypted file backup (proprietary)
+#cask 'tresorit'       # Encrypted file backup (proprietary)
 cask 'standard-notes' # Encrypted synced notes
 #cask 'signal'         # Link to encrypted mobile messenger
 #cask 'ledger-live'    # Crypto hardware wallet manager
@@ -212,7 +212,7 @@ cask 'alt-tab'        # Much better alt-tab window switcher
 #cask 'anybar'         # Custom programatic menubar icons
 #cask 'copyq'          # Clipboard manager (cross platform)
 #cask 'espanso'        # Live text expander (cross-platform)
-#cask 'finicky'        # Website-specific default browser
+cask 'finicky'        # Website-specific default browser
 #cask 'hiddenbar'      # Hide / show annoying menubar icons
 brew 'iproute2mac'    # MacOS port of netstat and ifconfig
 brew 'lporg'          # Backup and restore launchpad layout

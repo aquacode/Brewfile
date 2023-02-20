@@ -6,7 +6,7 @@ My Brewfile for managing installed programs
 To get started, just run the setup script:
 
 ```bash
-bash <(curl -s https://aquacode.github.io/Brewfile/install.sh)
+bash <(curl -s https://aquacode.github.io/Brewfile/guided-install.sh)
 ```
 
 

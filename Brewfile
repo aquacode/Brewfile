@@ -111,7 +111,8 @@ brew 'go'             # Compiler for Go Lang
 #brew 'lua'            # Lua interpreter
 #brew 'luarocks'       # Package manager for Lua
 #brew 'node'           # Node.js
-#brew 'nvm'            # Switching node versions
+brew 'nvm'            # Switching node versions
+brew 'pyenv'		# switching python versions
 #brew 'openjdk'        # Java development kit
 #brew 'python'         # Python interpriter
 #brew 'rust'           # Rust language
